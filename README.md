@@ -1,4 +1,4 @@
--  Hi, Eu Sou Gonçalo, Suporte de TI, engenheiro de rede apaixonado por tecnologia com foco no desenvolvimento front-end e backend, com linguagem JavaScript e C, DevOps, Cloud Computing e Security.
+-  Hi, Eu Sou Gonçalo, Suporte de TI, engenheiro de rede apaixonado por tecnologia com foco no desenvolvimento front-end e backend, com linguagem JavaScript, Python e C, DevOps, Cloud Computing e Security.
 -  NETWORKING
   
 -  Atualmente focado mesmo em redes de computador, infrastrutura, Administração e suporte.
